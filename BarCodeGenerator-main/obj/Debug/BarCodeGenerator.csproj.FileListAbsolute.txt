@@ -1,0 +1,30 @@
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\bin\Debug\BarCodeGenerator.exe.config
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\bin\Debug\BarCodeGenerator.exe
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\bin\Debug\BarCodeGenerator.pdb
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.csprojAssemblyReference.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\App.g.cs
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator_MarkupCompile.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator_MarkupCompile.lref
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\MainWindow.baml
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.g.resources
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.Properties.Resources.resources
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.GenerateResource.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.exe
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.pdb
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\bin\Debug\BarCodeGenerator.exe.config
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\bin\Debug\BarCodeGenerator.exe
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\bin\Debug\BarCodeGenerator.pdb
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.g.resources
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.exe
+C:\Users\Алексей\Desktop\Отчеты УП\BarCodeGenerator-main\obj\Debug\BarCodeGenerator.pdb
